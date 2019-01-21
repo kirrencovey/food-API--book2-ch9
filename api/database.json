@@ -1,0 +1,46 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Tacos",
+      "category": "Main Dish",
+      "ethnicity": "Mexican",
+      "barcode": "0021000047079"
+    },
+    {
+      "id": 2,
+      "name": "Brie",
+      "category": "Cheese",
+      "ethnicity": "French",
+      "barcode": "08510703"
+    },
+    {
+      "id": 4,
+      "name": "Tom Yum",
+      "category": "Soup",
+      "ethnicity": "Thai",
+      "barcode": "0016229008598"
+    },
+    {
+      "name": "Raspberries",
+      "category": "Fruit",
+      "ethnicity": "English",
+      "id": 5,
+      "barcode": "0011150544924"
+    },
+    {
+      "name": "Waffles",
+      "category": "Breakfast",
+      "ethnicity": "Belgian",
+      "id": 6,
+      "barcode": "0011110789907"
+    },
+    {
+      "name": "Tiramisu",
+      "category": "Dessert",
+      "ethnicity": "Italian",
+      "id": 7,
+      "barcode": "0011110457219"
+    }
+  ]
+}

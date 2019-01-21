@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+.foodList {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.food {
+    flex-basis: 20%;
+    padding: 15px 40px;
+    margin: 25px 0;
+    border-radius: 10px;
+    background-color: rgb(220, 220, 220);
+}
